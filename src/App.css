@@ -114,28 +114,28 @@
 
 .nav-link.home {
   top: 6px;
-  left: 474.41px;
+  left: 444.41px;
   color: #ffffff;
   opacity: 1;
 }
 
 .nav-link.about-us {
   top: 6px;
-  left: 514.41px;
+  left: 484.41px;
   color: #ffffffb2;
   opacity: 1;
 }
 
 .nav-link.features {
   top: 6px;
-  left: 554.41px;
+  left: 524.41px;
   color: #ffffffb2;
   opacity: 1;
 }
 
 .nav-link.solution {
   top: 6px;
-  left: 594.41px;
+  left: 564.41px;
   color: #ffffffb2;
   opacity: 1;
 }
@@ -162,22 +162,23 @@
 }
 
 .group {
-  width: 388px;
-  height: 32px;
+  width: 205px;
+  height: 25px;
   position: absolute;
   top: 150px;
   left: 105px;
   opacity: 1;
   display: flex;
   align-items: center;
+  background: linear-gradient(125.17deg, #272727 0%, #11101d 100%);
+  border-radius: 5px;
 }
 
-/* Discount Image */
 .discount {
   width: 22px;
   height: 22px;
   opacity: 1;
-  margin-left: 10px;
+  margin-left: 8px;
 }
 
 .discount-content {
@@ -189,7 +190,7 @@
 
 .discount-text {
   font-family: "Poppins", sans-serif;
-  font-size: 10px;
+  font-size: 8px;
   font-weight: 400;
   line-height: 27px;
   text-align: left;
@@ -199,7 +200,7 @@
 
 .highlighted {
   font-family: "Poppins", sans-serif;
-  font-size: 10px;
+  font-size: 8px;
   font-weight: 400;
   line-height: 27px;
   text-align: left;
@@ -1018,7 +1019,7 @@
 .apple {
   width: 400px;
   position: absolute;
-  left: 570px;
+  left: 560px;
   font-family: "Poppins", sans-serif;
   font-size: 6px;
   font-weight: 700;
@@ -1053,7 +1054,7 @@
 .play {
   width: 400px;
   position: absolute;
-  left: 680px;
+  left: 670px;
   font-family: "Poppins", sans-serif;
   font-size: 6px;
   font-weight: 700;
@@ -1485,10 +1486,10 @@
 .easy {
   width: 200px;
   position: absolute;
-  margin-top: 70px;
-  margin-left: 0px;
+  margin-top: 90px;
+  margin-left: -30px;
   font-family: "Poppins", sans-serif;
-  font-size: 12px;
+  font-size: 10px;
   font-weight: 100;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -1619,14 +1620,14 @@
 }
 
 .semi {
-  margin-left: 550px;
-  transform: translateY(-1020px);
+  margin-left: 565px;
+  transform: translateY(-1030px);
   position: relative;
 }
 
 .right {
   margin-left: 770px;
-  transform: translateY(-1090px);
+  transform: translateY(-1095px);
   position: relative;
 }
 .vector {
@@ -1640,12 +1641,12 @@
 }
 .layout {
   margin-left: 550px;
-  transform: translateY(-1530px);
+  transform: translateY(-1525px);
 }
 
 .top {
-  margin-left: 580px;
-  transform: translateY(-1850px);
+  margin-left: 550px;
+  transform: translateY(-1840px);
 }
 .circle-container {
   position: relative;
